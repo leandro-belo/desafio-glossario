@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    color: blanchedalmond;
+}
+
+.titulo-glossario {
+    font-size: 23px;
+}
+
+strong {
+    font-size: 19px;
+    background-color: white;
+    color: black;
+}
+
+.descricao {
+    color: blanchedalmond;
+}
+
+.texto-rodape {
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 30px;
+}
